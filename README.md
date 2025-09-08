@@ -1,4 +1,4 @@
-# URL Shortener - Campus Hiring Evaluation
+# URL Shortener 
 
 A React-based URL Shortener Web App built for campus hiring evaluation with Material UI and comprehensive logging.
 
