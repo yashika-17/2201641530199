@@ -70,12 +70,12 @@ For full evaluation server integration:
    curl -X POST http://20.244.56.144/evaluation-service/register \
      -H "Content-Type: application/json" \
      -d '{
-       "email": "your.email@example.com",
-       "name": "Your Name",
-       "mobileNo": "1234567890",
-       "githubUsername": "yourusername",
-       "rollNo": "YOUR_ROLL_NUMBER",
-       "accessCode": "YOUR_ACCESS_CODE"
+       "email": "yashika.psit.edu@gmail.com",
+       "name": "Yashika Agnihotri",
+       "mobileNo": "6394223253",
+       "githubUsername": "yashika-17",
+       "rollNo": "2201641530199",
+       "accessCode": "sAWTuR"
      }'
    \`\`\`
 
